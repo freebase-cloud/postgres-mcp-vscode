@@ -1,0 +1,6 @@
+{
+  "name": "postgres-mcp-vscode",
+  "engine": "postgresql",
+  "slug": "postgres",
+  "kind": "mcp"
+}
